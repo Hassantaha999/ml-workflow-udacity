@@ -1,6 +1,6 @@
 # ml-workflow-udacity
 
-# Scones Unlimited - Vehicle Image Classification Project
+# ML Workflow fo Scones Unlimited on Amazon Sagemker - Vehicle Image Classification Project
 
 ## Project Introduction
 
@@ -70,21 +70,6 @@ The project is divided into the following steps:
 - **AWS Lambda**: Serverless functions to handle requests and interact with the Sagemaker endpoint.
 - **AWS Step Functions**: Orchestrates the workflow and integrates the various services.
 - **Python**: Core programming language used for data preprocessing, model building, and scripting.
-
-## How to Use
-
-1. **Setup AWS Credentials**: Ensure you have valid AWS credentials configured for **Sagemaker**, **Lambda**, and **Step Functions**.
-2. **Clone the repository**: 
-    ```bash
-    git clone https://github.com/your-username/scones-unlimited-classifier.git
-    cd scones-unlimited-classifier
-    ```
-3. **Follow the project steps**:
-   - Data staging and preprocessing (`Step 1`).
-   - Model training and deployment (`Step 2`).
-   - Lambda setup and Step Functions integration (`Step 3`).
-   - Test and evaluate the model (`Step 4`).
-   - Optional challenges (`Step 5`).
 
 ## Future Enhancements
 
