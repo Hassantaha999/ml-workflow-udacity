@@ -1,5 +1,3 @@
-# ml-workflow-udacity
-
 # ML Workflow fo Scones Unlimited on Amazon Sagemker - Vehicle Image Classification Project
 
 ## Project Introduction
